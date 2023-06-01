@@ -1,0 +1,18 @@
+.corpo{
+    background-image: url("la.jpng.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+.feijao{
+background-color: gray;
+color: aliceblue;
+text-align: center;
+}
+
+.imgperfil{
+    border-radius: 10%;
+    height: 390px;
+    width: 250px;
+}
